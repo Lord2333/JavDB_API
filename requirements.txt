@@ -1,0 +1,4 @@
+flask
+deta
+bs4
+httpx
